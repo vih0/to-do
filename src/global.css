@@ -17,3 +17,7 @@
   --gray-100: #f2f2f2;
   --red-300: #e25858;
 }
+.App{
+  background: var(--gray-600);
+  height: 100vh;
+}
